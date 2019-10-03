@@ -1,0 +1,10 @@
+name: Alka3Item
+version: 0.0.2-SNAPSHOT
+author: nnnyan
+authors: [Final Child]
+main: net.alkaonline.alka3item.Alka3Item
+depend: [kotlinbukkit, ItemNBTAPI, ArmorEquipEvent]
+api-version: 1.14
+
+commands:
+  repair: {}

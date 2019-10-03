@@ -1,0 +1,96 @@
+#등급이 표시되는 형식
+rank-format: "§l§9등급: %s"
+#조합시에 예상 등급이 표시되는 형식
+maybe-format: §l§9갓챠!
+#공격력이 표시되는 형식
+attack-damage-format: §d공격력 +%s
+#공격 속도가 표시되는 형식
+attack-speed-format: §d공격 속도 +%s
+#채굴 속도가 표시되는 형식
+mining-speed-format: §9채굴 속도 +%s
+
+#등급과 그에 해당하는 값
+ranks:
+  §dS: 6
+  §aA: 4
+  §6B: 2
+  §eC: 1
+
+items:
+  diamond_sword:
+    generic.attackDamage:
+      mean: 3.5
+      bonus-by-rank: 0.5
+      #랜덤값의 표준편차
+      standard-deviation: 0.3
+      #정규분포의 하한값과 평균의 차
+      lower-bound-from-mean: 0.5
+      #정규분포의 상한값과 평균의 차
+      upper-bound-from-mean: 0.5
+  iron_sword:
+    generic.attackDamage:
+      mean: 3.0
+      bonus-by-rank: 0.5
+      #랜덤값의 표준편차
+      standard-deviation: 0.3
+      #정규분포의 하한값과 평균의 차
+      lower-bound-from-mean: 0.5
+      #정규분포의 상한값과 평균의 차
+      upper-bound-from-mean: 0.5
+
+  diamond_axe:
+    generic.attackDamage:
+      mean: 9
+      bonus-by-rank: 1.5
+      #랜덤값의 표준편차
+      standard-deviation: 1
+      #정규분포의 하한값과 평균의 차
+      lower-bound-from-mean: 1.5
+      #정규분포의 상한값과 평균의 차
+      upper-bound-from-mean: 1.5
+  iron_axe:
+    generic.attackDamage:
+      mean: 9
+      bonus-by-rank: 1.5
+      #랜덤값의 표준편차
+      standard-deviation: 1
+      #정규분포의 하한값과 평균의 차
+      lower-bound-from-mean: 1.5
+      #정규분포의 상한값과 평균의 차
+      upper-bound-from-mean: 1.5
+
+  diamond_pickaxe:
+    miningSpeed:
+      mean: 2
+      bonus-by-rank: 1
+      #랜덤값의 표준편차
+      standard-deviation: 1
+      #정규분포의 하한값과 평균의 차
+      lower-bound-from-mean: 4
+      #정규분포의 상한값과 평균의 차
+      upper-bound-from-mean: 4
+  iron_pickaxe:
+    miningSpeed:
+      mean: 0
+      bonus-by-rank: 1
+      #랜덤값의 표준편차
+      standard-deviation: 1
+      #정규분포의 하한값과 평균의 차
+      lower-bound-from-mean: 4
+      #정규분포의 상한값과 평균의 차
+      upper-bound-from-mean: 4
+
+  diamond_chestplate:
+    generic.armor:
+      mean: 8
+      bonus-by-rank: 2
+      standard-deviation: 2
+      lower-bound-from-mean: 4
+      upper-bound-from-mean: 4
+  iron_chestplate:
+    generic.armor:
+      mean: 6
+      bonus-by-rank: 1.5
+      standard-deviation: 2
+      lower-bound-from-mean: 4
+      upper-bound-from-mean: 4

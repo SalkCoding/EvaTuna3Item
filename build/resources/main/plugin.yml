@@ -1,0 +1,6 @@
+name: Alka3Item
+version: 0.0.2-SNAPSHOT
+author: nnnyan
+authors: [Final Child]
+main: net.alkaonline.alka3item.Alka3Item
+depend: [kotlinbukkit, ItemNBTAPI, LangUtils, ChatItem]

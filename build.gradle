@@ -1,0 +1,59 @@
+plugins {
+    id 'org.jetbrains.kotlin.jvm' version '1.2.21'
+}
+
+group 'net.alkaonline.alka3item'
+version '0.0.2-SNAPSHOT'
+
+repositories {
+    jcenter()
+    maven {
+        name 'Final Repository'
+        url 'https://dl.bintray.com/finalchild/Final_Repo/'
+    }
+    maven {
+        name 'SpigotMC Repository'
+        url 'https://hub.spigotmc.org/nexus/content/repositories/snapshots/'
+    }
+    maven {
+        name 'Sonatype OSSRH'
+        url 'https://oss.sonatype.org/content/repositories/snapshots/'
+    }
+    maven {
+        name 'JitPack'
+        url 'https://jitpack.io/'
+    }
+    maven {
+        name 'bStats Repository'
+        url 'https://repo.bstats.org/content/repositories/releases/'
+    }
+    maven {
+        name 'LanguageUtils Repository'
+        url 'https://raw.github.com/MascusJeoraly/LanguageUtils/mvn-repo/'
+    }
+}
+
+dependencies {
+    compile (group: 'me.finalchild', name: 'kotlinbukkit', version: '1.0.0-rc.7') {
+        exclude group: 'com.destroystokyo.paper', module: 'paper-api'
+    }
+    compileOnly files("C:/Users/Josangbeom/Desktop/Minecraft/Library/Paper-1.14.4-b137.jar")
+    compileOnly files("C:/Users/Josangbeom/Desktop/Minecraft/Library/item-nbt-api-plugin-1.8.3-SNAPSHOT.jar")
+    compileOnly files("C:/Users/Josangbeom/Desktop/Minecraft/Library/ArmorEquipEvent-1.7.2.jar")
+}
+
+compileKotlin {
+    kotlinOptions.jvmTarget = '1.8'
+}
+compileTestKotlin {
+    kotlinOptions.jvmTarget = '1.8'
+}
+
+processResources {
+    filteringCharset 'UTF-8'
+    expand(
+            name: project.name,
+            version: project.version,
+            description: project.description
+    )
+}

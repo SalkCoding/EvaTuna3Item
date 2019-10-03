@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Alka3Item:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3dfd27ac-e4a8-460a-b3e7-383050f2efbe" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/alkaonline/alka3item/util/ReflectionUtil.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/alkaonline/alka3item/util/Util.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/net/alkaonline/alka3item/Alka3Item.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/net/alkaonline/alka3item/Alka3Item.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/net/alkaonline/alka3item/EventListener.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/net/alkaonline/alka3item/EventListener.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/net/alkaonline/alka3item/Alka3ItemTest.kt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Alka3Item" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Alka3Item" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Alka3Item" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Alka3Item" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files/Apache Software Foundation/apache-maven-3.5.2" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1OpGEK0GdVYiy7R7VUeAjjDmqGR" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EssentialsS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\Alka3Item\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3dfd27ac-e4a8-460a-b3e7-383050f2efbe" name="Default" comment="" />
+      <created>1518391832758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518391832758</updated>
+      <workItem from="1518391835143" duration="13210000" />
+      <workItem from="1518478342349" duration="19000" />
+      <workItem from="1518484446422" duration="6839000" />
+      <workItem from="1518517155422" duration="2195000" />
+      <workItem from="1518602120358" duration="608000" />
+      <workItem from="1518779203453" duration="1526000" />
+      <workItem from="1518872605251" duration="1449000" />
+      <workItem from="1518947338822" duration="7102000" />
+      <workItem from="1518996166745" duration="1202000" />
+      <workItem from="1519021675265" duration="2566000" />
+      <workItem from="1519047074159" duration="693000" />
+      <workItem from="1519083057683" duration="870000" />
+      <workItem from="1519094661105" duration="42000" />
+      <workItem from="1519130522014" duration="605000" />
+      <workItem from="1519166553503" duration="592000" />
+      <workItem from="1519179299961" duration="1326000" />
+      <workItem from="1519180934897" duration="15711000" />
+      <workItem from="1519207691972" duration="979000" />
+      <workItem from="1521376048141" duration="32000" />
+      <workItem from="1523074586472" duration="963000" />
+      <workItem from="1525655235549" duration="16000" />
+      <workItem from="1564667014425" duration="155000" />
+      <workItem from="1564723326922" duration="2463000" />
+      <workItem from="1564725863074" duration="10000" />
+      <workItem from="1564847258814" duration="1137000" />
+      <workItem from="1564856402245" duration="879000" />
+      <workItem from="1564916176774" duration="8772000" />
+      <workItem from="1564982260078" duration="1207000" />
+      <workItem from="1565004610315" duration="810000" />
+      <workItem from="1565019241719" duration="1101000" />
+      <workItem from="1565020370272" duration="59000" />
+      <workItem from="1565080313905" duration="1181000" />
+      <workItem from="1565107939948" duration="192000" />
+      <workItem from="1565271786969" duration="170000" />
+      <workItem from="1565272909572" duration="4925000" />
+      <workItem from="1565341286694" duration="238000" />
+      <workItem from="1565341533590" duration="7000" />
+      <workItem from="1565341546422" duration="9000" />
+      <workItem from="1565356755703" duration="2126000" />
+      <workItem from="1565368772596" duration="9000" />
+      <workItem from="1565787135745" duration="106000" />
+      <workItem from="1565787448113" duration="637000" />
+      <workItem from="1566052688460" duration="141000" />
+      <workItem from="1567598641763" duration="440000" />
+      <workItem from="1568535918060" duration="32000" />
+      <workItem from="1568536677538" duration="1171000" />
+      <workItem from="1569847353964" duration="1872000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
